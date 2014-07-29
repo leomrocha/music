@@ -1,0 +1,10 @@
+---
+layout: page
+title: "about"
+date: 2014-07-29 22:50
+comments: false
+sharing: true
+footer: true
+---
+
+

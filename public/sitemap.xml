@@ -5,14 +5,35 @@
   
   <url>
     <loc>http://leopanigo.herokuapp.com/</loc>
-    <lastmod>2014-07-20T16:25:16+02:00</lastmod>
+    <lastmod>2014-07-29T22:50:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
+    <loc>http://leopanigo.herokuapp.com/archives/</loc>
+    <lastmod>2014-07-29T22:50:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://leopanigo.herokuapp.com/blog/</loc>
+    <lastmod>2014-07-29T22:50:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://leopanigo.herokuapp.com/blog/archives/</loc>
-    <lastmod>2014-07-20T16:25:16+02:00</lastmod>
+    <lastmod>2014-07-29T22:50:59+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://leopanigo.herokuapp.com/about/</loc>
+    <lastmod>2014-07-29T22:50:59+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

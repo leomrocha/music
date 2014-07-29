@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Soundesthesia]]></title>
+  <title><![CDATA[Leo Panigo]]></title>
   <link href="http://leopanigo.herokuapp.com/atom.xml" rel="self"/>
   <link href="http://leopanigo.herokuapp.com/"/>
-  <updated>2014-07-20T16:25:16+02:00</updated>
+  <updated>2014-07-29T22:50:59+02:00</updated>
   <id>http://leopanigo.herokuapp.com/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
