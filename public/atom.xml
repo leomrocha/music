@@ -4,7 +4,7 @@
   <title><![CDATA[Leo Panigo]]></title>
   <link href="http://leopanigo.herokuapp.com/atom.xml" rel="self"/>
   <link href="http://leopanigo.herokuapp.com/"/>
-  <updated>2014-07-31T12:59:22+02:00</updated>
+  <updated>2014-07-31T13:52:32+02:00</updated>
   <id>http://leopanigo.herokuapp.com/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -14,10 +14,48 @@
 
   
   <entry>
-    <title type="html"><![CDATA[What means music?]]></title>
-    <link href="http://leopanigo.herokuapp.com/blog/2014/07/30/what-means-music/"/>
+    <title type="html"><![CDATA[First Challenge - Online Music TAB and Score notation tool]]></title>
+    <link href="http://leopanigo.herokuapp.com/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool/"/>
+    <updated>2014-07-31T13:49:21+02:00</updated>
+    <id>http://leopanigo.herokuapp.com/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool</id>
+    <content type="html"><![CDATA[<h3>Type: Weekly Challenge:</h3>
+
+<p>Create and put online a tool that allows to create and play the newly created music sheets, scores and TABs.</p>
+
+<h3>Why?</h3>
+
+<p>All things start to be in place in this blog, and the first challenge is to build an online tool that allows people (everyone) to write music notation, and play it. Play it with diferent types of sounds.</p>
+
+<h3> The success measures are:</h3>
+
+<ul>
+<li>The tool is online</li>
+<li>The tool is usable by everyone</li>
+<li>Music notation (TABs, scores) are supported</li>
+<li>The tool allows to embed the created scores into other web pages and blogs (YES, this is for all of you)</li>
+</ul>
+
+
+<h3>Tools I&rsquo;ll be using:</h3>
+
+<p>For this, I will integrate tools from:</p>
+
+<ul>
+<li>MIDI.js</li>
+<li>Vexflow</li>
+<li>Vextab</li>
+<li>AngularJS</li>
+<li>DjangoProject</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What music means?]]></title>
+    <link href="http://leopanigo.herokuapp.com/blog/2014/07/30/what-music-means/"/>
     <updated>2014-07-30T21:55:27+02:00</updated>
-    <id>http://leopanigo.herokuapp.com/blog/2014/07/30/what-means-music</id>
+    <id>http://leopanigo.herokuapp.com/blog/2014/07/30/what-music-means</id>
     <content type="html"><![CDATA[<h1>Love &amp; Passion</h1>
 
 <p>Yes, those 2 words describe the amazing feeling while I play.</p>
@@ -25,12 +63,12 @@
 <p>Yes, those 2 words describe the incredible sensations that passed through my veins while listening
 to an orchestra that first night I arrived to London and my friend took me to the Royal Albert Hall.</p>
 
-<p>That is why, this blog will document my learning, and I will be writing for you to be able to follow.
+<p>That is why, this blog will document my learning, and I will be writing for me and for you to be able to follow.
 I want to not only learn, but to share and to build new tools (I&rsquo;m a Computer Engineer) that help others as well as myself.</p>
 
 <p>I am thrilled (and terrified) about this idea of publicly documenting all my progress. Let&rsquo;s see what happens.</p>
 
-<p>Yes, Love &amp; Passion describe what I feel about music, please join me in this quest.</p>
+<p>Yes, Love &amp; Passion describe what I feel about music, join me in this quest.</p>
 
 <p>Write to you soon!</p>
 
