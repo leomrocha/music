@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Leo Panigo]]></title>
+  <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leopanigo.herokuapp.com/atom.xml" rel="self"/>
   <link href="http://leopanigo.herokuapp.com/"/>
-  <updated>2014-07-31T13:52:32+02:00</updated>
+  <updated>2014-08-11T13:48:42+02:00</updated>
   <id>http://leopanigo.herokuapp.com/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Challenge Update - music writing web page in process]]></title>
+    <link href="http://leopanigo.herokuapp.com/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process/"/>
+    <updated>2014-08-03T11:56:39+02:00</updated>
+    <id>http://leopanigo.herokuapp.com/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process</id>
+    <content type="html"><![CDATA[<h2>Writing and sharing music online</h2>
+
+<p>That was the latest challenge. And the success of mesure where the following:</p>
+
+<ul>
+<li>The tool is online &ndash;> CHECK</li>
+<li>The tool is usable by everyone &ndash;> CHECK</li>
+<li>Music notation (TABs, scores) are supported &ndash;> CHECK</li>
+<li>The tool allows to embed the created scores into other web pages and blogs (YES, this is for all of you) &ndash;> CHECK</li>
+</ul>
+
+
+<p>All checked!! First week goes with a success!</p>
+
+<p>I want to be able to write, and use this tool to empower others and myself to create, share and study music.</p>
+
+<p>That is why I&rsquo;m creating this tools.</p>
+
+<h4>So, here a working sample of it:</h4>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="480px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p>Write to you all soon with my new challenge!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Challenge - Online Music TAB and Score notation tool]]></title>
