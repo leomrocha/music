@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Lean Way on Music]]></title>
-  <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
-  <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-16T11:48:23+02:00</updated>
-  <id>http://leomrocha.github.io//github/</id>
+  <link href="http://leomrocha.github.io//music/atom.xml" rel="self"/>
+  <link href="http://leomrocha.github.io//music/"/>
+  <updated>2014-08-16T11:58:13+02:00</updated>
+  <id>http://leomrocha.github.io//music/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Challenge Update - music writing web page in process]]></title>
-    <link href="http://leomrocha.github.io//github/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process/"/>
+    <link href="http://leomrocha.github.io//music/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process/"/>
     <updated>2014-08-03T11:56:39+02:00</updated>
-    <id>http://leomrocha.github.io//github/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process</id>
+    <id>http://leomrocha.github.io//music/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process</id>
     <content type="html"><![CDATA[<h2>Writing and sharing music online</h2>
 
 <p>That was the latest challenge. And the success of mesure where the following:</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Challenge - Online Music TAB and Score notation tool]]></title>
-    <link href="http://leomrocha.github.io//github/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool/"/>
+    <link href="http://leomrocha.github.io//music/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool/"/>
     <updated>2014-07-31T13:49:21+02:00</updated>
-    <id>http://leomrocha.github.io//github/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool</id>
+    <id>http://leomrocha.github.io//music/blog/2014/07/31/first-challenge-online-music-tab-and-score-notation-tool</id>
     <content type="html"><![CDATA[<h3>Type: Weekly Challenge:</h3>
 
 <p>Create and put online a tool that allows to create and play the newly created music sheets, scores and TABs.</p>
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[What music means?]]></title>
-    <link href="http://leomrocha.github.io//github/blog/2014/07/30/what-music-means/"/>
+    <link href="http://leomrocha.github.io//music/blog/2014/07/30/what-music-means/"/>
     <updated>2014-07-30T21:55:27+02:00</updated>
-    <id>http://leomrocha.github.io//github/blog/2014/07/30/what-music-means</id>
+    <id>http://leomrocha.github.io//music/blog/2014/07/30/what-music-means</id>
     <content type="html"><![CDATA[<h1>Love &amp; Passion</h1>
 
 <p>Yes, those 2 words describe the amazing feeling while I play.</p>
