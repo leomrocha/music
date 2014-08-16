@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://leomrocha.github.io//music/sitemap.xml 
+Sitemap: http://leomrocha.github.io//github/sitemap.xml 
