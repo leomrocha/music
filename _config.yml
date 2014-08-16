@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://leopanigo.herokuapp.com
+url: http://leomrocha.github.io//github
 title: The Lean Way on Music
 subtitle: One step at a time.
 author: Leo Panigo
@@ -16,7 +16,7 @@ description: My path learning music.
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /music/atom.xml
 #subscribe_email:
 # RSS feeds can list your email address if you like
 #email:
@@ -26,10 +26,10 @@ subscribe_rss: /atom.xml
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /music
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/music
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
