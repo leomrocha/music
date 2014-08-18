@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://leomrocha.github.io//github/blog/2014/08/18/third-challenge-getting-into-music/</loc>
+    <lastmod>2014-08-18T12:24:36+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://leomrocha.github.io//github/blog/2014/08/18/second-week-sumup/</loc>
+    <lastmod>2014-08-18T12:21:18+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://leomrocha.github.io//github/blog/2014/08/03/first-challenge-update-music-writing-web-page-in-process/</loc>
     <lastmod>2014-08-03T11:56:39+02:00</lastmod>
     <priority>0.8</priority>
@@ -23,42 +35,42 @@
   
   <url>
     <loc>http://leomrocha.github.io//github/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://leomrocha.github.io//github/archives/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://leomrocha.github.io//github/blog/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://leomrocha.github.io//github/blog/archives/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://leomrocha.github.io//github/challenges/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://leomrocha.github.io//github/about/</loc>
-    <lastmod>2014-08-16T12:03:03+02:00</lastmod>
+    <lastmod>2014-08-18T12:46:37+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
