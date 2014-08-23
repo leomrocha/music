@@ -49,18 +49,16 @@ In the diatonic scale we have 12 notes, the minimum distance is called **semiton
     
 ##Intervals:
 
-2nd: 
+ * 2nd: 2 semitones C (Do) -> D (Re)
+ * 3rd: 4 semitones C (Do) -> E (Mi)
+ * 4th: 5 semitones C (Do) -> F (Fa)
+ * 5th: 7 semitones C (Do) -> G (Sol)
+ * 6th: 9 semitones C (Do) -> A (La)
+ * 7th: 11 semitones C (Do) ->  B (Si)
+ * Octave: 12  semitones C (Do)-> C (Do) of next octave
 
-3rd:
-
-4th
-
-5th:
-
-6th: 
-
-7th: C - B
-
+<!--
+TODO
 ### Exercise:
 Name all the intervals
 Write down all the intervals beggining from every note
@@ -68,7 +66,7 @@ Write down all the intervals beggining from every note
 TODO redo all 
   TODO Challenge:
   Game that generates intervals and I have to evaluate them!
-
+-->
 
 
 ## Scale:
