@@ -4,7 +4,7 @@
   <title><![CDATA[Category: notes | The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/blog/categories/notes/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-23T20:16:47+02:00</updated>
+  <updated>2014-08-23T20:26:52+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -19,6 +19,18 @@
     <updated>2014-08-18T12:55:09+02:00</updated>
     <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-musical-notes</id>
     <content type="html"><![CDATA[<h1>Music Notes</h1>
+
+<p>When I think about a music note my mind creates a sound that I can recognize, and then, when I find it in my guitar I can put a name on it to tell somebody else what note I have sounding in my head.</p>
+
+<p>So for the practical point of view of how I see it:</p>
+
+<p>A <strong>music note</strong> is a concept that links</p>
+
+<pre><code>1. A Pitch
+2. A Name
+</code></pre>
+
+<p>A more formal definition of <a href="http://en.wikipedia.org/wiki/Note" title="Music Note">Music Note</a> in Wikipedia</p>
 
 <h2>Sound</h2>
 
@@ -37,7 +49,7 @@
 
 <p>Is a quality of sound that allows us to identify and order it.</p>
 
-<p><a href="http://en.wikipedia.org/wiki/Pitch_(music">Pitch</a> &ldquo;Pitch&rdquo;) in Wikipedia</p>
+<p><a href="http://en.wikipedia.org/wiki/Pitch_(music)" title="Pitch">Pitch</a> in Wikipedia</p>
 
 <h2>Naming the notes</h2>
 
@@ -85,7 +97,7 @@ FACE &ndash; face</p>
 
 <p>Here you can see an actual example:</p>
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/4LzGmcEcBPR8CJtMrReZyv/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe>
+<iframe src="http://musicpaste.com/musicapp/embed_score/4LzGmcEcBPR8CJtMrReZyv/" width="640px" height="610px"> <p>Your browser does not support iframes.</p> </iframe>
 
 
 <p></p>
