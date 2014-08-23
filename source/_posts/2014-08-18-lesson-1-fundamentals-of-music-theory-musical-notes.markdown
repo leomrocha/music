@@ -8,6 +8,17 @@ categories:  lesson, Fundamentals of Music Theory, Music Notes
 
 # Music Notes
 
+When I think about a music note my mind creates a sound that I can recognize, and then, when I find it in my guitar I can put a name on it to tell somebody else what note I have sounding in my head. 
+
+So for the practical point of view of how I see it:
+
+A **music note** is a concept that links
+    1. A Pitch
+    2. A Name
+    
+
+A more formal definition of [Music Note](http://en.wikipedia.org/wiki/Note "Music Note") in Wikipedia
+
 ## Sound
 
 Definition:
@@ -25,8 +36,7 @@ A sound can be **singable** if we (anyone) manage(s) to sing it or **not singabl
 
 Is a quality of sound that allows us to identify and order it.
 
-[Pitch](http://en.wikipedia.org/wiki/Pitch_(music) "Pitch") in Wikipedia
-
+[Pitch](http://en.wikipedia.org/wiki/Pitch_(music\) "Pitch") in Wikipedia
 
 ##Naming the notes
 
@@ -73,5 +83,6 @@ Pnemotechnics for the spaces:
 FACE - face
 
 Here you can see an actual example:
-<iframe src="http://musicpaste.com/musicapp/embed_score/4LzGmcEcBPR8CJtMrReZyv/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
+<iframe src="http://musicpaste.com/musicapp/embed_score/4LzGmcEcBPR8CJtMrReZyv/" width="640px" height="610px"> <p>Your browser does not support iframes.</p> </iframe> 
+
 
