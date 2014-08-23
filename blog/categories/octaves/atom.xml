@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octaves | The Lean Way on Music]]></title>
+  <link href="http://leomrocha.github.io//github/blog/categories/octaves/atom.xml" rel="self"/>
+  <link href="http://leomrocha.github.io//github/"/>
+  <updated>2014-08-23T19:38:43+02:00</updated>
+  <id>http://leomrocha.github.io//github/</id>
+  <author>
+    <name><![CDATA[Leo Panigo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Octaves]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves/"/>
+    <updated>2014-08-18T13:18:57+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves</id>
+    <content type="html"><![CDATA[<p>We are going to look at vertical distances between notes</p>
+
+<h2>Octaves</h2>
+
+<p><strong>8 whole notes</strong>
+An octave actually contains 12 notes.</p>
+
+<h2>Distances</h2>
+
+<h3>Semitone:</h3>
+
+<pre><code>Smallest working distance we can have between 2 notes.
+
+Distance between two consecutive notes
+</code></pre>
+
+<h3>Tone:</h3>
+
+<pre><code>Distance between 
+</code></pre>
+
+<h2>Intervals:</h2>
+
+<p>2nd:</p>
+
+<p>3rd:</p>
+
+<p>4th</p>
+
+<p>5th:</p>
+
+<p>6th:</p>
+
+<p>7th: C &ndash; B</p>
+
+<h3>Exercise:</h3>
+
+<p>Name all the intervals
+Write down all the intervals beggining from every note</p>
+
+<p>TODO redo all
+  TODO Challenge:
+  Game that generates intervals and I have to evaluate them!</p>
+
+<h2>Scale:</h2>
+
+<p>Path trough an octave</p>
+
+<h2>C Major Scale</h2>
+
+<p>TODO all about the C maj scale</p>
+
+<p>The important thing is the relationship between the notes, and the difference between tones and semitones</p>
+
+<p>Tone = T
+Semitone = S</p>
+
+<p>The pattern TTSTTTS makes the scale sound like it sounds.
+It gives the quality of this scale.</p>
+
+<p>The <strong>TONIC</strong> is the note that gives the scale the name.</p>
+
+<p>We will call it <strong>Major Scale</strong></p>
+
+<p>As the first note on this scale is <strong>C</strong> we will call this scale: <strong>C Major Scale</strong></p>
+
+<p>Diatonic &ndash; dia == between
+Diatonic Scale: 5 tones and 2 semitones</p>
+
+<p>A scale helps to make music!!</p>
+
+<p>So, give a <strong>C Major</strong> music example</p>
+
+<h2>Common practice &ndash; music</h2>
+
+<p>Western music from 16 to 19 century</p>
+
+<p>applies to a lot of music and we will focus here:</p>
+]]></content>
+  </entry>
+  
+</feed>

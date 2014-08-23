@@ -4,7 +4,7 @@
   <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-18T12:46:37+02:00</updated>
+  <updated>2014-08-23T19:38:43+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,224 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Octaves]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves/"/>
+    <updated>2014-08-18T13:18:57+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves</id>
+    <content type="html"><![CDATA[<p>We are going to look at vertical distances between notes</p>
+
+<h2>Octaves</h2>
+
+<p><strong>8 whole notes</strong>
+An octave actually contains 12 notes.</p>
+
+<h2>Distances</h2>
+
+<h3>Semitone:</h3>
+
+<pre><code>Smallest working distance we can have between 2 notes.
+
+Distance between two consecutive notes
+</code></pre>
+
+<h3>Tone:</h3>
+
+<pre><code>Distance between 
+</code></pre>
+
+<h2>Intervals:</h2>
+
+<p>2nd:</p>
+
+<p>3rd:</p>
+
+<p>4th</p>
+
+<p>5th:</p>
+
+<p>6th:</p>
+
+<p>7th: C &ndash; B</p>
+
+<h3>Exercise:</h3>
+
+<p>Name all the intervals
+Write down all the intervals beggining from every note</p>
+
+<p>TODO redo all
+  TODO Challenge:
+  Game that generates intervals and I have to evaluate them!</p>
+
+<h2>Scale:</h2>
+
+<p>Path trough an octave</p>
+
+<h2>C Major Scale</h2>
+
+<p>TODO all about the C maj scale</p>
+
+<p>The important thing is the relationship between the notes, and the difference between tones and semitones</p>
+
+<p>Tone = T
+Semitone = S</p>
+
+<p>The pattern TTSTTTS makes the scale sound like it sounds.
+It gives the quality of this scale.</p>
+
+<p>The <strong>TONIC</strong> is the note that gives the scale the name.</p>
+
+<p>We will call it <strong>Major Scale</strong></p>
+
+<p>As the first note on this scale is <strong>C</strong> we will call this scale: <strong>C Major Scale</strong></p>
+
+<p>Diatonic &ndash; dia == between
+Diatonic Scale: 5 tones and 2 semitones</p>
+
+<p>A scale helps to make music!!</p>
+
+<p>So, give a <strong>C Major</strong> music example</p>
+
+<h2>Common practice &ndash; music</h2>
+
+<p>Western music from 16 to 19 century</p>
+
+<p>applies to a lot of music and we will focus here:</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Musical Notes]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-musical-notes/"/>
+    <updated>2014-08-18T12:55:09+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-musical-notes</id>
+    <content type="html"><![CDATA[<h1>Music Notes</h1>
+
+<h2>Sound</h2>
+
+<p>Definition</p>
+
+<p>Singable and not singable</p>
+
+<h2>Pitch</h2>
+
+<p>Definition</p>
+
+<h2>Naming the notes</h2>
+
+<p>For naming the notes, there is the need to</p>
+
+<p>Stave</p>
+
+<pre><code>5 lines and 4 spaces in between
+</code></pre>
+
+<p>Do Re Mi Fa Sol La Si &ndash;> Latin speaking countries
+C  D  E  F  G   A  B &ndash;> Saxon countries
+1  2  3  4  5   6  7</p>
+
+<p>and relationships with the stave and the clefs
+(ledgeline)?? (check if the name is right, for the line that has to be added when no line of the stave transverses it</p>
+
+<p>G clef === Trebble Clef</p>
+
+<p>Guitar as an illustration</p>
+
+<h2>Octave</h2>
+
+<p>The distance between two notes having the double or half the frequency</p>
+
+<h2>Exercise in the piano</h2>
+
+<p>TODO</p>
+
+<h2>Exercise in the guitar</h2>
+
+<p>TODO</p>
+
+<h2>Reading &ndash; pnemotechnics</h2>
+
+<p>Pnemotechnics for the lines:
+EGBDF &ndash; Every Good Boy Deserves Food</p>
+
+<p>Pnemotechnics for the spaces:
+FACE &ndash; face</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Developing Your Musicianship - Important Definitions]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-developing-your-musicianship-important-definitions/"/>
+    <updated>2014-08-18T12:50:25+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-developing-your-musicianship-important-definitions</id>
+    <content type="html"><![CDATA[<p>As writing helps me put ideas in order. I&rsquo;ll try to write a post for each lesson.
+So here there is the first post of a series that will make it possible for me to track the progress made.</p>
+
+<p>I hope is also useful for you too!</p>
+
+<p>This series of post is dedicated to write down what I get from the online courses.</p>
+
+<h1>Important Definitions</h1>
+
+<h2>Harmony</h2>
+
+<p>The study of chords, scales and melodies</p>
+
+<p>Harmony study inclues the analysis of chords progressions to show important relationships between chords and the key a song is in.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Harmony" title="Harmony">Harmony</a> definition in Wikipedia</p>
+
+<h2>Ear training</h2>
+
+<p>Identifying what your ear hears</p>
+
+<p>Ear training makes the connections between your musical mind, your ears, the sound around you, music notation and your instrument.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Ear_training" title="Ear Training">Ear Training</a> definition in Wikipedia</p>
+
+<h2>We start now</h2>
+
+<p>Everything we do comes or can be related to the <strong>C Major Scale</strong></p>
+
+<pre><code>Do Re Mi Fa Sol La Si Do -&gt; Names - Latin speaking countries
+Do Re Mi Fa Sol La Ti Do -&gt; Solfege sylabs
+C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
+1  2  3  4  5   6  7  1  -&gt; Scales degrees
+</code></pre>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<h3>Exercise:</h3>
+
+<pre><code>Play it while singing - 4 times:
+1,2 - Naming (Latin and Saxon names)
+3 - singing the solfege sylabs
+4 - singing the scales degrees
+</code></pre>
+
+<h2>Interval</h2>
+
+<p>Distance between two notes</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Interval_(music">Interval</a> &ldquo;Interval&rdquo;) definition in Wikipedia</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/T8G47A5G5RWakBUB8Ze6XW/" width="640px" height="380px"> 
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p></p>
+
+<h3>Exercise:</h3>
+
+<pre><code>Sing the intervals 4 times, as before
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Third Challenge - Getting into music]]></title>
@@ -50,9 +268,11 @@ And that magic can only be felt if and only if, we spent our time perfecting for
 
 <p>The short term goals are:</p>
 
-<pre><code>1. Finish (at least) one lesson each week
-2. Practice aplying the theory with the instrument at least 15 minutes every day
-</code></pre>
+<ol>
+<li>Finish (at least) one lesson each week</li>
+<li>Practice aplying the theory with the instrument at least 15 minutes every day</li>
+</ol>
+
 ]]></content>
   </entry>
   

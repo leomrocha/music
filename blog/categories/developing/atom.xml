@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: developing | The Lean Way on Music]]></title>
+  <link href="http://leomrocha.github.io//github/blog/categories/developing/atom.xml" rel="self"/>
+  <link href="http://leomrocha.github.io//github/"/>
+  <updated>2014-08-23T19:38:43+02:00</updated>
+  <id>http://leomrocha.github.io//github/</id>
+  <author>
+    <name><![CDATA[Leo Panigo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Developing Your Musicianship - Important Definitions]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-developing-your-musicianship-important-definitions/"/>
+    <updated>2014-08-18T12:50:25+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-developing-your-musicianship-important-definitions</id>
+    <content type="html"><![CDATA[<p>As writing helps me put ideas in order. I&rsquo;ll try to write a post for each lesson.
+So here there is the first post of a series that will make it possible for me to track the progress made.</p>
+
+<p>I hope is also useful for you too!</p>
+
+<p>This series of post is dedicated to write down what I get from the online courses.</p>
+
+<h1>Important Definitions</h1>
+
+<h2>Harmony</h2>
+
+<p>The study of chords, scales and melodies</p>
+
+<p>Harmony study inclues the analysis of chords progressions to show important relationships between chords and the key a song is in.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Harmony" title="Harmony">Harmony</a> definition in Wikipedia</p>
+
+<h2>Ear training</h2>
+
+<p>Identifying what your ear hears</p>
+
+<p>Ear training makes the connections between your musical mind, your ears, the sound around you, music notation and your instrument.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Ear_training" title="Ear Training">Ear Training</a> definition in Wikipedia</p>
+
+<h2>We start now</h2>
+
+<p>Everything we do comes or can be related to the <strong>C Major Scale</strong></p>
+
+<pre><code>Do Re Mi Fa Sol La Si Do -&gt; Names - Latin speaking countries
+Do Re Mi Fa Sol La Ti Do -&gt; Solfege sylabs
+C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
+1  2  3  4  5   6  7  1  -&gt; Scales degrees
+</code></pre>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<h3>Exercise:</h3>
+
+<pre><code>Play it while singing - 4 times:
+1,2 - Naming (Latin and Saxon names)
+3 - singing the solfege sylabs
+4 - singing the scales degrees
+</code></pre>
+
+<h2>Interval</h2>
+
+<p>Distance between two notes</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Interval_(music">Interval</a> &ldquo;Interval&rdquo;) definition in Wikipedia</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/T8G47A5G5RWakBUB8Ze6XW/" width="640px" height="380px"> 
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p></p>
+
+<h3>Exercise:</h3>
+
+<pre><code>Sing the intervals 4 times, as before
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
