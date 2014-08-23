@@ -4,7 +4,7 @@
   <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-23T19:42:30+02:00</updated>
+  <updated>2014-08-23T20:16:47+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,85 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Musical Notes]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-musical-notes/"/>
+    <updated>2014-08-18T12:55:09+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-musical-notes</id>
+    <content type="html"><![CDATA[<h1>Music Notes</h1>
+
+<h2>Sound</h2>
+
+<p>Definition:</p>
+
+<pre><code>For the practical point of view a sound is anyhing that we can listen to.
+</code></pre>
+
+<p>A more formal definition of <a href="http://en.wikipedia.org/wiki/Sound" title="Sound">Sound</a> in Wikipedia</p>
+
+<p>There is one main characteristic of sound is the idea that is <strong>low</strong> or <strong>high</strong></p>
+
+<p>A sound can be <strong>singable</strong> if we (anyone) manage(s) to sing it or <strong>not singable</strong> otherwise. But going further to the definition. Singable means that we can identify and reproduce it, while not singable means that we have a rough idea of its <strong>high</strong> or <strong>low</strong> quality but not able to actually identify it with a single note.</p>
+
+<h2>Pitch</h2>
+
+<p>Is a quality of sound that allows us to identify and order it.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Pitch_(music">Pitch</a> &ldquo;Pitch&rdquo;) in Wikipedia</p>
+
+<h2>Naming the notes</h2>
+
+<p>For naming the notes, there is the need to have a notation that allows us to reproduce the same idea with the same symbols.</p>
+
+<p>This way, we introduce the <strong>stave</strong> that allows us to do it.</p>
+
+<h3>Stave</h3>
+
+<pre><code>5 lines and 4 spaces in between
+</code></pre>
+
+<p>The lines in the Stave means nothing without knowing how to start naming the notes.</p>
+
+<p>For this naming there are the <strong>clefs</strong> that indicates that a certain line corresponds to a certain note.</p>
+
+<p>For exemple, the <strong>G clef</strong> also called <strong>Trebble Clef</strong></p>
+
+<p>An example, with also the TAB style below (for guitar players)</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p>This example corresponds to the following names:</p>
+
+<pre><code>Do Re Mi Fa Sol La Si Do -&gt; Names - Latin speaking countries
+Do Re Mi Fa Sol La Ti Do -&gt; Solfege sylabs
+C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
+1  2  3  4  5   6  7  1  -&gt; Scales degrees
+</code></pre>
+
+<p>When a note is in a place where there are no lines around (above or below the 5 lines), we write a small line called <a href="http://en.wikipedia.org/wiki/Ledger_line" title="Ledger Line">ledger line</a>.</p>
+
+<p>For the purpose of</p>
+
+<h3>Reading &ndash; mnemotechnics</h3>
+
+<p>Mnemotechnics for the lines:
+EGBDF &ndash; Every Good Boy Deserves Food</p>
+
+<p>Pnemotechnics for the spaces:
+FACE &ndash; face</p>
+
+<p>Here you can see an actual example:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/4LzGmcEcBPR8CJtMrReZyv/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lesson 1 - Developing Your Musicianship - Important Definitions]]></title>
