@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lesson, | The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/blog/categories/lesson/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-23T20:26:52+02:00</updated>
+  <updated>2014-08-23T23:18:28+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,125 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Octaves]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves/"/>
+    <updated>2014-08-18T13:18:57+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/18/lesson-1-fundamentals-of-music-theory-octaves</id>
+    <content type="html"><![CDATA[<p>From Pythagoras to the modern days, music has evolved, transformed and has become what is today.</p>
+
+<p>Sounds where studied in different ways, music notation evolved, and also the definition of the notes.</p>
+
+<p>Even if scales will be defined in later. Modern music is  studied in the
+<a href="http://en.wikipedia.org/wiki/Diatonic_scale" title="Diatonic Scale">diatonic scale</a>
+and is the one I&rsquo;m interested in using.</p>
+
+<p>Relationships between notes are important, and here we study</p>
+
+<p>We are going to look at vertical distances between notes</p>
+
+<h2>Octaves</h2>
+
+<p><strong>8 whole notes</strong>
+An octave actually contains 12 notes.</p>
+
+<p>If we use an instrument, we will be able to notice that every octave is &ldquo;equivalent&rdquo; when studying (or listening) the relationships between the notes inside each octave.</p>
+
+<p>And there is a relationship also between octaves. If we divide the frequency of the Nth note in the highest octave by the frequency of the Nth note of the lowest octave, it will always result in an integer.</p>
+
+<p>Let&rsquo;s take as one example is <strong>La</strong> 440Hz</p>
+
+<pre><code>Going lower than 440Hz: **La** also exist in 220Hz, 110Hz, 55Hz
+
+Going higher than **La** 440Hz we have 880Hz, 1760Hz, 3520Hz, etc
+</code></pre>
+
+<h2>Distances</h2>
+
+<h3>Semitone:</h3>
+
+<pre><code>Smallest working distance we can have between 2 notes.
+
+Distance between two consecutive notes
+</code></pre>
+
+<p>In the diatonic scale we have 12 notes, the minimum distance is called <strong>semitone</strong></p>
+
+<h3>Tone:</h3>
+
+<pre><code>Distance  of 2 semitones
+</code></pre>
+
+<h2>Intervals:</h2>
+
+<p>2nd:</p>
+
+<p>3rd:</p>
+
+<p>4th</p>
+
+<p>5th:</p>
+
+<p>6th:</p>
+
+<p>7th: C &ndash; B</p>
+
+<h3>Exercise:</h3>
+
+<p>Name all the intervals
+Write down all the intervals beggining from every note</p>
+
+<p>TODO redo all
+  TODO Challenge:
+  Game that generates intervals and I have to evaluate them!</p>
+
+<h2>Scale:</h2>
+
+<p>The way I see an scale is an ordered and defined sequence of different notes.
+The order is from lower to higher pitch</p>
+
+<p>We can say that is the <strong>path</strong> trough an octave</p>
+
+<p>For example, the C Major Scale as we read below.</p>
+
+<h2>C Major Scale</h2>
+
+<p>The nice thing about creating something, is that you get to name it the way you want.
+So, lets imagine that we are the creators of C Major Scale, we decided how to define it and we named it as <strong>C Major Scale</strong> or equivalently <strong>Do Major Scale</strong></p>
+
+<p>We take our piano (imagine you have a piano, use yours, or use one online), and we find any  <strong>C (Do)</strong></p>
+
+<p>Then from that note, we play all the white keys up to the next <strong>C (Do)</strong></p>
+
+<p>And we decide that we will call this scale the <strong>C (Do) Major Scale</strong>:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p>So now we have this awesome scale, with a name.</p>
+
+<p>The most important thing to note, is that our ear cares a lot about the relationships between notes, so lets see this scale:</p>
+
+<p>There are white keys notes that have a black key in between, and there are other white keys that dont.</p>
+
+<p>As we said before, the minimum interval between two notes is a <strong>semitone</strong>.</p>
+
+<p>We assign a the <strong>T</strong> to a Tone interval and the <strong>S</strong> to a Semitone interval</p>
+
+<p>Now let&rsquo;s analyze the  <strong>C (Do) Major Scale</strong></p>
+
+<p>We can see that the pattern formed is: <strong>TTSTTTS</strong></p>
+
+<p>So now we decide to call <strong>ANY</strong> scale that contains this tone and semitone pattern the <strong>Major Scale</strong> and as we did with the  <strong>C (Do) Major Scale</strong> we will name the scale with the first note, so if we start from <strong>D</strong> and we follow the same pattern, we will call it the  <strong>D (Re) Major Scale</strong>.</p>
+
+<p>Another definition: The <strong>TONIC</strong> is the note that gives the scale the name.</p>
+
+<p>That is all for the sumup of this lesson. Next post will be more about scales.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Musical Notes]]></title>
