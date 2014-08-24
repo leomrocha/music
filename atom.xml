@@ -4,7 +4,7 @@
   <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-23T23:27:46+02:00</updated>
+  <updated>2014-08-24T16:41:47+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lesson 3 - Fundamentals of Music Theory - More on Scales]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/24/lesson-3-fundamentals-of-music-theory-more-on-scales/"/>
+    <updated>2014-08-24T15:13:48+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/24/lesson-3-fundamentals-of-music-theory-more-on-scales</id>
+    <content type="html"><![CDATA[<p>There are three basic concepts to take from this lesson:</p>
+
+<ol>
+<li>What is a <strong>mode</strong></li>
+<li>The definition of <strong>natural minor scale</strong></li>
+<li>The definition of a <strong>relative minor</strong></li>
+</ol>
+
+
+<h2>Mode</h2>
+
+<p>Modes is something I can&rsquo;t seem to grasp correctly, anyway, I&rsquo;ll give it a try, and hopefully I&rsquo;ll get to understand it better.</p>
+
+<p>For the practical point of view for what I can get for the moment:</p>
+
+<pre><code>A musical mode is simply a variation from where we start playing the sequence of notes.
+</code></pre>
+
+<p>or</p>
+
+<pre><code>Another way to name the scales
+</code></pre>
+
+<p>Reading the simple definition of <a href="http://simple.wikipedia.org/wiki/Musical_mode" title="Mode">Mode</a> in Wikipedia I can grasp what I stated before.</p>
+
+<p>A more detailed explanation of <a href="http://en.wikipedia.org/wiki/Mode_(music)" title="Mode">Mode</a> in Wikipedia</p>
+
+<p>I&rsquo;ve done an exaustive list of all the modes (with the TAB in case of need) here:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/qQFj8vkDKLpwg8ERsvTSfa/" width="640px" height="640px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p></p>
+
+<h2>Natural Minor Scale</h2>
+
+<p>Lets choose arbitrarily one sequence of notes from the modes before.</p>
+
+<p>Let&rsquo;s play in the keyboard all the white keys from <strong>A(La)</strong> to the next <strong>A(La)</strong> key.</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/i2jotPALdxdAzbcHPFGCf7/" width="640px" height="380px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p></p>
+
+<h2>Relative Minor</h2>
+
+<p>If now we see the relationships between the notes in the A(La) Natural Minor Scale, we will notice the following pattern of Tones and Semitones:</p>
+
+<pre><code>TSTTSTT
+</code></pre>
+
+<p>We can see that is only a transposition of the C (Do) Major Scale: TTSTTTS</p>
+
+<p>We decide (just because we want to) call this two scales <strong>relatives</strong></p>
+
+<p>A more detailed explanation of <a href="http://en.wikipedia.org/wiki/Relative_key" title="Relative Minor">Relative Minor</a> in Wikipedia</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Octaves]]></title>
