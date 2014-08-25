@@ -57,17 +57,9 @@ In the diatonic scale we have 12 notes, the minimum distance is called **semiton
  * 7th: 11 semitones C (Do) ->  B (Si)
  * Octave: 12  semitones C (Do)-> C (Do) of next octave
 
-<!--
-TODO
-### Exercise:
-Name all the intervals
-Write down all the intervals beggining from every note
-
-TODO redo all 
-  TODO Challenge:
-  Game that generates intervals and I have to evaluate them!
--->
-
+<iframe src="http://musicpaste.com/musicapp/embed_score/T8G47A5G5RWakBUB8Ze6XW/" width="640px" height="380px"> 
+  <p>Your browser does not support iframes.</p>
+</iframe> 
 
 ## Scale:
 
