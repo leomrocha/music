@@ -4,7 +4,7 @@
   <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-24T23:34:33+02:00</updated>
+  <updated>2014-08-25T22:36:56+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,167 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[lesson 1 Fundamentals of Music Theory - Introduction to Chords]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/25/lesson-1-fundamentals-of-music-theory-introduction-to-chords/"/>
+    <updated>2014-08-25T21:26:00+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/25/lesson-1-fundamentals-of-music-theory-introduction-to-chords</id>
+    <content type="html"><![CDATA[<p>When I listen to a beautiful piece of music, while my body feels the pleaszure of it, my minds tries to find different things.
+Among them, how to be able to play it with my guitar and sing it.</p>
+
+<p>For playing it with the guitar I usually need to know the chords that are ther.</p>
+
+<p>So, what are chords?</p>
+
+<h2>Chords</h2>
+
+<p>So, for what I see and I do, I could say that:</p>
+
+<p>A <strong>chord</strong> is a defined set of notes played at the same time.</p>
+
+<p>So, for defining and naming them, it&rsquo;ll be good to have a way to do it with consistency and being able to everybody name and build chords in the same way.</p>
+
+<p>For this, let&rsquo;s go back to the <strong>C (Do) Major Scale</strong> where we started basing our study.</p>
+
+<h3>Let&rsquo;s repeat the <strong>C Major Scale</strong>:</h3>
+
+<pre><code>Do Re Mi Fa Sol La Si Do -&gt; Names - Latin speaking countries
+Do Re Mi Fa Sol La Ti Do -&gt; Solfege sylabs
+C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
+1  2  3  4  5   6  7  1  -&gt; Scales degrees
+</code></pre>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+
+<p>Also, we have to repeat the intervals, but I&rsquo;ll also add the intervals that I didn&rsquo;t write in the previous post:</p>
+
+<h3>Intervals</h3>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Interval (semitones)  </th>
+<th> Name              </th>
+<th> Example   </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> 0                     </td>
+<td> Unison            </td>
+<td> C-C       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 1                     </td>
+<td> Minor 2nd (9th)   </td>
+<td> C-Db      |</td>
+</tr>
+<tr>
+<td></td>
+<td> 2                     </td>
+<td> Major 2nd (9th)   </td>
+<td> C-D       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 3                     </td>
+<td> Minor 3rd         </td>
+<td> C-Eb      |</td>
+</tr>
+<tr>
+<td></td>
+<td> 4                     </td>
+<td> Major 3rd         </td>
+<td> C-E       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 5                     </td>
+<td> Perfect 4th       </td>
+<td> C-F       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 6                     </td>
+<td> Augmented 4th     </td>
+<td> C-F#      |</td>
+</tr>
+<tr>
+<td></td>
+<td>                       </td>
+<td> 5th Diminished    </td>
+<td>           |</td>
+</tr>
+<tr>
+<td></td>
+<td> 7                     </td>
+<td> Perfect 5th       </td>
+<td> C-G       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 8                     </td>
+<td> Minor 6th         </td>
+<td> C-G#      |</td>
+</tr>
+<tr>
+<td></td>
+<td> 9                     </td>
+<td> Major 6th         </td>
+<td> C-A       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 10                    </td>
+<td> Minor 7th         </td>
+<td> C-A#      |</td>
+</tr>
+<tr>
+<td></td>
+<td> 11                    </td>
+<td> Major 7th         </td>
+<td> C-B       |</td>
+</tr>
+<tr>
+<td></td>
+<td> 12                    </td>
+<td> Octave            </td>
+<td> C-C&#8217;      |</td>
+</tr>
+</tbody>
+</table>
+
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p>If we simultaneourly play the <strong>Tonic</strong> and the <strong>5th</strong> we can hear a nice consonance.</p>
+
+<p>Then we can take the <strong>3rd</strong> (major and minor 3rd) and play it with the tonic, it also sounds good.</p>
+
+<p>Not lets form two sets, one with <strong>(Tonic, 3rd, 5th)</strong> and other: <strong>(Tonic, min 3rd, 5th )</strong></p>
+
+<p>If we play them we can listen to a small difference, we will call the first one <strong>Major chord</strong> and the second one <strong>Minor chord</strong></p>
+
+<p>and for the name of the chord we will use, as with the scales, the <strong>Tonic</strong>, that is, the first note.</p>
+
+<p>So the following example will be to form the <strong>C major</strong> and <strong>C minor</strong> chords:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/LuF8UaKujwx8JYPv3xqseS/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p></p>
+
+<p>Well, that&rsquo;s all for chords today.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Last Week Sumup]]></title>
@@ -265,17 +426,12 @@ Distance between two consecutive notes
 </ul>
 
 
-<!--
-TODO
-### Exercise:
-Name all the intervals
-Write down all the intervals beggining from every note
+<iframe src="http://musicpaste.com/musicapp/embed_score/T8G47A5G5RWakBUB8Ze6XW/" width="640px" height="380px"> 
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
-TODO redo all 
-  TODO Challenge:
-  Game that generates intervals and I have to evaluate them!
--->
 
+<p></p>
 
 <h2>Scale:</h2>
 

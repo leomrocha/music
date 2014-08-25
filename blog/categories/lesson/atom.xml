@@ -4,7 +4,7 @@
   <title><![CDATA[Category: lesson, | The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/blog/categories/lesson/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-24T23:34:33+02:00</updated>
+  <updated>2014-08-25T22:36:56+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -75,17 +75,12 @@ Distance between two consecutive notes
 </ul>
 
 
-<!--
-TODO
-### Exercise:
-Name all the intervals
-Write down all the intervals beggining from every note
+<iframe src="http://musicpaste.com/musicapp/embed_score/T8G47A5G5RWakBUB8Ze6XW/" width="640px" height="380px"> 
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
-TODO redo all 
-  TODO Challenge:
-  Game that generates intervals and I have to evaluate them!
--->
 
+<p></p>
 
 <h2>Scale:</h2>
 
