@@ -31,7 +31,7 @@ For this, let's go back to the **C (Do) Major Scale** where we started basing ou
     C  D  E  F  G   A  B  C  -> Names -Saxon countries
     1  2  3  4  5   6  7  1  -> Scales degrees
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="380px">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
@@ -57,7 +57,7 @@ Also, we have to repeat the intervals, but I'll also add the intervals that I di
 | 12                   	| Octave          	| C-C'    	|
 
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe>
+<iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="415px"> <p>Your browser does not support iframes.</p> </iframe>
 
 
 If we simultaneourly play the **Tonic** and the **5th** we can hear a nice consonance.
@@ -72,7 +72,7 @@ and for the name of the chord we will use, as with the scales, the **Tonic**, th
 
 So the following example will be to form the **C major** and **C minor** chords:
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/LuF8UaKujwx8JYPv3xqseS/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe> 
+<iframe src="http://musicpaste.com/musicapp/embed_score/LuF8UaKujwx8JYPv3xqseS/" width="640px" height="415px"> <p>Your browser does not support iframes.</p> </iframe> 
 
 Well, that's all for chords today.
 
