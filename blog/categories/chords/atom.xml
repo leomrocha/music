@@ -4,7 +4,7 @@
   <title><![CDATA[Category: chords | The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/blog/categories/chords/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-25T22:36:56+02:00</updated>
+  <updated>2014-08-26T12:49:49+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -43,7 +43,7 @@ C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
 1  2  3  4  5   6  7  1  -&gt; Scales degrees
 </code></pre>
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="370px">
+<iframe src="http://musicpaste.com/musicapp/embed_score/Efdag29mKzak8aSTW7nstn/" width="640px" height="380px">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
@@ -66,92 +66,94 @@ C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
 <td></td>
 <td> 0                     </td>
 <td> Unison            </td>
-<td> C-C       |</td>
+<td> C-C</td>
 </tr>
 <tr>
 <td></td>
 <td> 1                     </td>
 <td> Minor 2nd (9th)   </td>
-<td> C-Db      |</td>
+<td> C-Db</td>
 </tr>
 <tr>
 <td></td>
 <td> 2                     </td>
 <td> Major 2nd (9th)   </td>
-<td> C-D       |</td>
+<td> C-D</td>
 </tr>
 <tr>
 <td></td>
 <td> 3                     </td>
 <td> Minor 3rd         </td>
-<td> C-Eb      |</td>
+<td> C-Eb</td>
 </tr>
 <tr>
 <td></td>
 <td> 4                     </td>
 <td> Major 3rd         </td>
-<td> C-E       |</td>
+<td> C-E</td>
 </tr>
 <tr>
 <td></td>
 <td> 5                     </td>
 <td> Perfect 4th       </td>
-<td> C-F       |</td>
+<td> C-F</td>
 </tr>
 <tr>
 <td></td>
 <td> 6                     </td>
 <td> Augmented 4th     </td>
-<td> C-F#      |</td>
+<td> C-F#</td>
 </tr>
 <tr>
 <td></td>
-<td>                       </td>
+<td> 6                     </td>
 <td> 5th Diminished    </td>
-<td>           |</td>
+<td> C-F#</td>
 </tr>
 <tr>
 <td></td>
 <td> 7                     </td>
 <td> Perfect 5th       </td>
-<td> C-G       |</td>
+<td> C-G</td>
 </tr>
 <tr>
 <td></td>
 <td> 8                     </td>
 <td> Minor 6th         </td>
-<td> C-G#      |</td>
+<td> C-G#</td>
 </tr>
 <tr>
 <td></td>
 <td> 9                     </td>
 <td> Major 6th         </td>
-<td> C-A       |</td>
+<td> C-A </td>
 </tr>
 <tr>
 <td></td>
 <td> 10                    </td>
 <td> Minor 7th         </td>
-<td> C-A#      |</td>
+<td> C-A#</td>
 </tr>
 <tr>
 <td></td>
 <td> 11                    </td>
 <td> Major 7th         </td>
-<td> C-B       |</td>
+<td> C-B </td>
 </tr>
 <tr>
 <td></td>
 <td> 12                    </td>
 <td> Octave            </td>
-<td> C-C'      |</td>
+<td> C-C'</td>
 </tr>
 </tbody>
 </table>
 
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe>
+<iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="415px"> <p>Your browser does not support iframes.</p> </iframe>
 
+
+<p>Lets look at a type of chords with 3 notes, and as they have 3 notes, we will call them <strong>triads</strong>.</p>
 
 <p>If we simultaneourly play the <strong>Tonic</strong> and the <strong>5th</strong> we can hear a nice consonance.</p>
 
@@ -159,13 +161,13 @@ C  D  E  F  G   A  B  C  -&gt; Names -Saxon countries
 
 <p>Not lets form two sets, one with <strong>(Tonic, 3rd, 5th)</strong> and other: <strong>(Tonic, min 3rd, 5th )</strong></p>
 
-<p>If we play them we can listen to a small difference, we will call the first one <strong>Major chord</strong> and the second one <strong>Minor chord</strong></p>
+<p>If we play them we can listen to a small difference, we will call the first one <strong>Major triad</strong> and the second one <strong>Minor triad</strong></p>
 
 <p>and for the name of the chord we will use, as with the scales, the <strong>Tonic</strong>, that is, the first note.</p>
 
 <p>So the following example will be to form the <strong>C major</strong> and <strong>C minor</strong> chords:</p>
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/LuF8UaKujwx8JYPv3xqseS/" width="640px" height="405px"> <p>Your browser does not support iframes.</p> </iframe>
+<iframe src="http://musicpaste.com/musicapp/embed_score/LuF8UaKujwx8JYPv3xqseS/" width="640px" height="415px"> <p>Your browser does not support iframes.</p> </iframe>
 
 
 <p></p>
