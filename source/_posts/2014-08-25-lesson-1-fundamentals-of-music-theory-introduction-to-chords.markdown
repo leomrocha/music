@@ -41,23 +41,25 @@ Also, we have to repeat the intervals, but I'll also add the intervals that I di
 ###Intervals
 | Interval (semitones) 	| Name            	| Example 	|
 |----------------------	|-----------------	|---------	|
-| 0                    	| Unison          	| C-C     	|
-| 1                    	| Minor 2nd (9th) 	| C-Db    	|
-| 2                    	| Major 2nd (9th) 	| C-D     	|
-| 3                    	| Minor 3rd       	| C-Eb    	|
-| 4                    	| Major 3rd       	| C-E     	|
-| 5                    	| Perfect 4th     	| C-F     	|
-| 6                    	| Augmented 4th   	| C-F#    	|
-|                      	| 5th Diminished  	|         	|
-| 7                    	| Perfect 5th     	| C-G     	|
-| 8                    	| Minor 6th       	| C-G#    	|
-| 9                    	| Major 6th       	| C-A     	|
-| 10                   	| Minor 7th       	| C-A#    	|
-| 11                   	| Major 7th       	| C-B     	|
-| 12                   	| Octave          	| C-C'    	|
+| 0                    	| Unison          	| C-C
+| 1                    	| Minor 2nd (9th) 	| C-Db
+| 2                    	| Major 2nd (9th) 	| C-D
+| 3                    	| Minor 3rd       	| C-Eb
+| 4                    	| Major 3rd       	| C-E
+| 5                    	| Perfect 4th     	| C-F
+| 6                    	| Augmented 4th   	| C-F#
+| 6                    	| 5th Diminished  	| C-F#
+| 7                    	| Perfect 5th     	| C-G
+| 8                    	| Minor 6th       	| C-G#
+| 9                    	| Major 6th       	| C-A 
+| 10                   	| Minor 7th       	| C-A#
+| 11                   	| Major 7th       	| C-B 
+| 12                   	| Octave          	| C-C'
 
 
 <iframe src="http://musicpaste.com/musicapp/embed_score/doMWpdPS3PnTTv3mJk8bME/" width="640px" height="415px"> <p>Your browser does not support iframes.</p> </iframe>
+
+Lets look at a type of chords with 3 notes, and as they have 3 notes, we will call them **triads**.
 
 
 If we simultaneourly play the **Tonic** and the **5th** we can hear a nice consonance.
@@ -66,7 +68,7 @@ Then we can take the **3rd** (major and minor 3rd) and play it with the tonic, i
 
 Not lets form two sets, one with **(Tonic, 3rd, 5th)** and other: **(Tonic, min 3rd, 5th )**
 
-If we play them we can listen to a small difference, we will call the first one **Major chord** and the second one **Minor chord**
+If we play them we can listen to a small difference, we will call the first one **Major triad** and the second one **Minor triad**
 
 and for the name of the chord we will use, as with the scales, the **Tonic**, that is, the first note.
 
