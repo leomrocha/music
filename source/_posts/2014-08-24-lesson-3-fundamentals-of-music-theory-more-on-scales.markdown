@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lesson 3 - Fundamentals of Music Theory - More on Scales"
+title: "lesson 1 - Fundamentals of Music Theory - More on Scales"
 date: 2014-08-24 15:13:48 +0200
 comments: true
 categories: 
