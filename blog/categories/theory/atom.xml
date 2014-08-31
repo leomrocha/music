@@ -4,7 +4,7 @@
   <title><![CDATA[Category: theory, | The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/blog/categories/theory/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-08-26T12:49:49+02:00</updated>
+  <updated>2014-08-31T13:04:33+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,292 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lesson 2 - Fundamentals of Music Theory - Keys]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/08/30/lesson-2-fundamentals-of-music-theory-keys/"/>
+    <updated>2014-08-30T11:14:51+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/08/30/lesson-2-fundamentals-of-music-theory-keys</id>
+    <content type="html"><![CDATA[<p>On this post I&rsquo;ll review some points that I feel important, I will ignore some things that I feel are not so much, and I&rsquo;ll add some other points that I feel makes me understand things better.</p>
+
+<h1>Keys, Key Signatures &amp; Scales</h1>
+
+<p><a href="http://en.wikipedia.org/wiki/Key_(music)" title="Key">Key</a> definition on wikipedia</p>
+
+<p>Complex concept that contains different ideas:</p>
+
+<ul>
+<li>The  relationship and emotion that a piece or part of a piece has.</li>
+<li>The <strong>tonic</strong> that gives the name a <strong>key</strong>, when we listen, is the one that attracts and feels that there the music rests.</li>
+<li>All tension is resolved when the piece returns to the <strong>key</strong></li>
+</ul>
+
+
+<p>Lets look at different scales, that correspond to different keys.</p>
+
+<p>If we look a piece in the respective <strong>key</strong> of the <strong>tonic</strong> of each scale,
+Always the same note will have the same <a href="http://en.wikipedia.org/wiki/Accidental_(music)" title="Accidental">accidental</a> before.</p>
+
+<p>We can give this information beforehand and make writing a piece easier using what is called a <strong>Key Signature</strong></p>
+
+<p>(see example in graphics below in key signature seccion)</p>
+
+<h2>Key Signature</h2>
+
+<p><strong>Key Signature</strong> is a way of writing music accidentals at the begginig of the stave. this has two effects:</p>
+
+<ul>
+<li>Simplifies the writing</li>
+<li>Gives us from the start information about what will happen during the piece</li>
+</ul>
+
+
+<p><a href="http://en.wikipedia.org/wiki/Key_signature" title="Key Signature">Key Signature</a> definition on wikipedia</p>
+
+<p>Lets see all the scales, with and without the <strong>Key Signature</strong> written:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/ncqH8eeCMEgqMn5GZrvyh8/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe>
+
+
+<p></p>
+
+<p>We can see that writing the key signature simplifies the writing and more clear</p>
+
+<!--Now for Flats: TODO-->
+
+
+<h2>Circles of 5ths and Circle of 4th</h2>
+
+<h4>Let&rsquo;s refresh the Intervals</h4>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Interval (semitones)  </th>
+<th> Name              </th>
+<th> Example   </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> 0                     </td>
+<td> Unison            </td>
+<td> C-C</td>
+</tr>
+<tr>
+<td></td>
+<td> 1                     </td>
+<td> Minor 2nd (9th)   </td>
+<td> C-Db</td>
+</tr>
+<tr>
+<td></td>
+<td> 2                     </td>
+<td> Major 2nd (9th)   </td>
+<td> C-D</td>
+</tr>
+<tr>
+<td></td>
+<td> 3                     </td>
+<td> Minor 3rd         </td>
+<td> C-Eb</td>
+</tr>
+<tr>
+<td></td>
+<td> 4                     </td>
+<td> Major 3rd         </td>
+<td> C-E</td>
+</tr>
+<tr>
+<td></td>
+<td> 5                     </td>
+<td> Perfect 4th       </td>
+<td> C-F</td>
+</tr>
+<tr>
+<td></td>
+<td> 6                     </td>
+<td> Augmented 4th     </td>
+<td> C-F#</td>
+</tr>
+<tr>
+<td></td>
+<td> 6                     </td>
+<td> 5th Diminished    </td>
+<td> C-F#</td>
+</tr>
+<tr>
+<td></td>
+<td> 7                     </td>
+<td> Perfect 5th       </td>
+<td> C-G</td>
+</tr>
+<tr>
+<td></td>
+<td> 8                     </td>
+<td> Minor 6th         </td>
+<td> C-G#</td>
+</tr>
+<tr>
+<td></td>
+<td> 9                     </td>
+<td> Major 6th         </td>
+<td> C-A </td>
+</tr>
+<tr>
+<td></td>
+<td> 10                    </td>
+<td> Minor 7th         </td>
+<td> C-A#</td>
+</tr>
+<tr>
+<td></td>
+<td> 11                    </td>
+<td> Major 7th         </td>
+<td> C-B </td>
+</tr>
+<tr>
+<td></td>
+<td> 12                    </td>
+<td> Octave            </td>
+<td> C-C'</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>To find the circle of 4ths, 5ths, etc we have to <strong>jump</strong> this interval to get to the following note until we find the first note name with wich we started</p>
+
+<h3>Circle of Fifths</h3>
+
+<p>Lets take all the notes and let&rsquo;s jump starting from the <strong>C (Do)</strong> in perfect 5ths.
+So we have:</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> C(Do) </th>
+<th> G(Sol) </th>
+<th> D(Re) </th>
+<th> A(La) </th>
+<th> E(Mi) </th>
+<th> B(Si) </th>
+<th> F#(Fa#) </th>
+<th> Db(Re b) </th>
+<th> Ab(La b) </th>
+<th> Eb(Mi b) </th>
+<th> Bb(Si b) </th>
+<th> F(Fa) </th>
+<th> C(Do) </th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
+<p>The itervals are always 7 semitones (perfect 5ths)</p>
+
+<h3>Circle of Fourths</h3>
+
+<p>First lets again number the notes and start going up in fourths</p>
+
+<p>The same as before, but now we&rsquo;ll be going in perfect 4ths, it&rsquo;s the same to say, every 5 semitones.</p>
+
+<p>We can observe that as the circle of 5ths advances by 7 semitones, and the octave contains 12, the circle of 4ths will be the reverse of the circle of 5ths. Let&rsquo;s do it only for the major. Then we can count it for the relative minors too.</p>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> C(Do) </th>
+<th> F(Fa) </th>
+<th> Bb(Si b) </th>
+<th> Eb(Mi b) </th>
+<th> Ab(La b) </th>
+<th> Db(Re b) </th>
+<th> Gb(Sol b) </th>
+<th> B(Si) </th>
+<th> E(Mi) </th>
+<th> A(La) </th>
+<th> D(Re) </th>
+<th> G(Sol) </th>
+<th> C(Do) </th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
+<h3>SumUp Circles and Key Signatures</h3>
+
+<p>We can sumup everything in the following representation (from wikipedia)</p>
+
+<p>This image contains all the major and relative minor scales witht the corresponding key signatures (for flat and sharp).
+If we read it clockwise we see the circle of 5ths and if we read it counter-clockwise the circle of 4ths.</p>
+
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/3/33/Circle_of_fifths_deluxe_4.svg">Circle of 5ths</a></p>
+
+<h2>More on Scales</h2>
+
+<p>Refreshing the definition of <strong>Music Scale</strong></p>
+
+<p>Is an ordered increasing in frequency sequence of notes.</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Scale_(music">Music Scale</a> &ldquo;Music Scale&rdquo;) definition on wikipedia</p>
+
+<h3>Major Scale</h3>
+
+<p>We have defined the major scale as a sequence that follows:</p>
+
+<pre><code>TTSTTTS
+</code></pre>
+
+<p>Where:</p>
+
+<pre><code>T = Tone
+S = Semitone
+</code></pre>
+
+<h3>Minor Scales</h3>
+
+<p>We&rsquo;ve seen the Natural minor scale, but there are others, lets see:</p>
+
+<p>A complete article on <a href="http://en.wikipedia.org/wiki/Minor_scale" title="minor scales">minor scales</a> on Wikipedia</p>
+
+<h4>Natural Minor Scale</h4>
+
+<p>We have defined the natural minor as a sequence that follows:</p>
+
+<pre><code>TSTTSTT
+</code></pre>
+
+<h4>Harmonic Minor Scale</h4>
+
+<p>In the Natural Minor Scale there is a <strong>tone</strong> between the <strong>7th</strong> (the last note of the sequence before the tonic) and the <strong>tonic</strong>. This is, the 7th is a <strong>minor 7th</strong>.</p>
+
+<p>But we name the <strong>major 7th</strong> as the <strong>leading tone</strong>, that is, the note that leads to the <strong>tone</strong>. For this harmonic reason, we modify the Natural Minor Scale on the end and create the <strong>Harmonic Minor Scale</strong> as:</p>
+
+<pre><code>TSTTS(T+S)S
+</code></pre>
+
+<h4>Melodic Minor Scale</h4>
+
+<p>Singing the Harmonic Minor Scale is difficult, specially because of the Tone and a half, so there was another minor scale created to create an easier to sing melody, and this takes the form:</p>
+
+<pre><code>TSTTTTS
+</code></pre>
+
+<p>We can see all three scales in the following example:</p>
+
+<iframe src="http://musicpaste.com/musicapp/embed_score/fVoqus4E5zjsUXRF5d3DyG/" width="640px" height="500px"> <p>Your browser does not support iframes.</p> </iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lesson 1 - Fundamentals of Music Theory - Octaves]]></title>
