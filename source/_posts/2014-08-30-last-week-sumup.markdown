@@ -4,6 +4,7 @@ title: "Last Week Sumup"
 date: 2014-08-30 11:16:58 +0200
 comments: true
 categories: sumup, weekly
+published: false
 ---
 
 I'm making this posts so I can learn more and better, and this week has been quite interesting.

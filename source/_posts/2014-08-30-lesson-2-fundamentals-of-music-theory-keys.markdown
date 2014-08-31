@@ -103,7 +103,7 @@ We can sumup everything in the following representation (from wikipedia)
 This image contains all the major and relative minor scales witht the corresponding key signatures (for flat and sharp).
 If we read it clockwise we see the circle of 5ths and if we read it counter-clockwise the circle of 4ths.
 
-[Circle of 5ths](http://upload.wikimedia.org/wikipedia/commons/3/33/Circle_of_fifths_deluxe_4.svg)
+![Circle of 5ths](http://upload.wikimedia.org/wikipedia/commons/3/33/Circle_of_fifths_deluxe_4.svg)
 
 ##More on Scales
 
@@ -112,7 +112,7 @@ Refreshing the definition of **Music Scale**
 
 Is an ordered increasing in frequency sequence of notes.
 
-[Music Scale](http://en.wikipedia.org/wiki/Scale_(music) "Music Scale") definition on wikipedia
+[Music Scale](http://en.wikipedia.org/wiki/Scale_(music\) "Music Scale") definition on wikipedia
 
 ### Major Scale
 
