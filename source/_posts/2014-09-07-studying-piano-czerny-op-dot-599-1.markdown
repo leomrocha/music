@@ -74,11 +74,11 @@ Seems complex, but actually made me understand it better.
 
 The right hand:
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/wYbKJjZTamiQhxGa2YdmMW/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
+<iframe src="http://musicpaste.com/musicapp/embed_score/mXENYyTGFekrbYWHJ7GFMy/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
 
 The left hand:
 
-<iframe src="http://musicpaste.com/musicapp/embed_score/VpxiYAD56RnaQUDetHVMi9/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
+<iframe src="http://musicpaste.com/musicapp/embed_score/pZjXBu4aQfkhe95VRPA4M4/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
 
 The whole melody (sorry about the notation that is for guitar, but VexTab doesn't yet support piano voices, so I'll put it only for you to be able to listen to the melody)
 
