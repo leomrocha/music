@@ -32,7 +32,24 @@ For a long time I've been dreaming of a piano. Piano and violin are two instrume
 
 So I bought the piano (thanks to all the ones who participated to help me buy this as a birthday gift! specially my girlfriend whom made the whole organization for it) and now the question was:
 
- Do I keep on doing the same thing? or should I actually start from the beginning 
+Do I keep on doing the same thing? or should I actually start from the beginning?
+
+I decided I wanted to do it well, from the begining. And talking to a (pianist) friend of mine, she recommended **Czerny, First Teacher of the Piano**
+
+Czerny was a prodigy in music and also great music teacher.
+Among his  teachers we can name Bethoven, Salieri and Hummel and Clementi. 
+Also, most of the greatest clasic musicians can be traced back to Czerny 
+
+More about [Carl Czerny](http://en.wikipedia.org/wiki/Carl_Czerny "Carl Czerny") on Wikipedia
+
+So I took her advice and started from the first exercise in the book. 
+
+It's in the public domain, you can find it here: [Practical Exercises for Beginners Op. 599](http://imslp.org/wiki/Practical_Exercises_for_Beginners,_Op.599_%28Czerny,_Carl%29)
+
+
+[IMSLP](http://imslp.org) is a great website for finding public domain music sheets.
+
+So let's go to today's subject.
 
 ## Czerny Op. 599 - First exercise
 
