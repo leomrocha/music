@@ -12,7 +12,7 @@ So I'm learning while doing, and the idea is to do the shortest possible iterati
 For sure there will be some waste, waste of time mainly. Waste of words for sure. The idea is to learn and to improve while doing. But always, being able to progress.
 
 
-There is something great about writing down things, all progress (or noon-progress) gets documented, 
+There is something great about writing down things, all progress (or non-progress) gets documented, 
 and even if I think that this little details do not matter, I've realized that I do much
 more when I have the obligation to write down the results and the plan was clear.
 

@@ -101,7 +101,6 @@ The whole melody (sorry about the notation that is for guitar, but VexTab doesn'
 
 <iframe src="http://musicpaste.com/musicapp/embed_score/QzbvxGvjtb7nbB4mbtsaGS/" width="640px" height="480px"> <p>Your browser does not support iframes.</p> </iframe> 
 
-
 Yes, studying music takes time, and I love doing it, there is not one second I'd rather be doing something else.
 
 <hr/>
