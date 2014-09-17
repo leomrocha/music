@@ -4,7 +4,7 @@
   <title><![CDATA[The Lean Way on Music]]></title>
   <link href="http://leomrocha.github.io//github/atom.xml" rel="self"/>
   <link href="http://leomrocha.github.io//github/"/>
-  <updated>2014-09-08T21:05:19+02:00</updated>
+  <updated>2014-09-17T21:36:36+02:00</updated>
   <id>http://leomrocha.github.io//github/</id>
   <author>
     <name><![CDATA[Leo Panigo]]></name>
@@ -12,6 +12,102 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[last 10 days review]]></title>
+    <link href="http://leomrocha.github.io//github/blog/2014/09/17/last-10-days-review/"/>
+    <updated>2014-09-17T13:00:14+02:00</updated>
+    <id>http://leomrocha.github.io//github/blog/2014/09/17/last-10-days-review</id>
+    <content type="html"><![CDATA[<p><strong>And when I struggle, I know that I&rsquo;ll be able to come ahead</strong></p>
+
+<p>Sometimes (I should say, almost always), is not easy to go on and keep the things the planned way.</p>
+
+<p>There are struggles in the way, time issues, some incidents, things that come up and we never thought about before. All this things make us feel powerless and inhibit the progress. Although many of this things are or can be taken as positive.</p>
+
+<p>Last week was one of those weeks that let me completely tired, frustrated by one side and incredibly happy by another.</p>
+
+<p>The side that lead me to frustration was that for 3 days, one of the music courses was not available. So I went on with the Theory lessons, but not with the practical course. I finished all lessons, but I have neither done the sumup yet nor the exercises for the weekly lessons.</p>
+
+<p>Also, as almost every night was really busy, for I have a major deadline at work soon, I&rsquo;m passing job interviews and also keep on an ONG and talking about possibilities with 2 others, one in education and the other on social development. This tired me, and this week and the following will be more or less the same.</p>
+
+<p>This affected my music studies, and the development of the web apps I&rsquo;m working on. But on the plus side, I made a new contact and entered in nice discussions about online software for education and practice. I hope this leads to something interesting.</p>
+
+<p>As Sunday night I saw the class website was back online, I downloaded all the videos, and I finished watching last 3 weeks of the course. So I hurried up.</p>
+
+<p>I did practice every day, and I didn&rsquo;t manage to learn well the second exercise on the Czerny Op.599.I&rsquo;ll keep on working on it, it&rsquo;ll take time, patience and the best part is: <em>I will succeed</em>.</p>
+
+<h1>And now, as I have to do, the weekly SumUp</h1>
+
+<p>It&rsquo;s been a busy time, it&rsquo;s been hard to keep on the self imposed tasks. On the <strong>plus</strong> side, I kept ongoing, changed plans and managed to get some <em>other</em> things done.</p>
+
+<h2>Education</h2>
+
+<p>I finished all the Music Theory course videos, I haven&rsquo;t worked on the exercises or the sumup.</p>
+
+<p>I started watching another course:</p>
+
+<p><a href="http://oyc.yale.edu/music/musi-112"><strong>Listening to Music</strong></a></p>
+
+<p>It&rsquo;s harder to watch because lessons take 40-60 minutes each.
+The plus side is that it reinforces the things I learned in the <a href="https://class.coursera.org/musictheory-001/lecture"><strong>Music Theory Lessons</strong></a></p>
+
+<p>My guitar practice is almost none, I dedicate all the time to piano, and I&rsquo;m enjoying it a lot.</p>
+
+<p>Going to the measures set 10 days ago:</p>
+
+<ul>
+<li>Do all the lessons of week 3 of both courses  &ndash;> <strong>DONE</strong></li>
+<li>Write posts that include all the theory of both courses up to the end of lesson 3  &ndash;> <strong>NOT DONE</strong></li>
+<li>Write down at least 2 drills for piano and 2 for guitar.  &ndash;> <strong>NOT DONE</strong></li>
+<li>Having practiced 15 minutes every day (playing for fun doesn&rsquo;t count)  &ndash;> <strong>DONE</strong></li>
+</ul>
+
+
+<h2>Applications</h2>
+
+<p>Last days I worked on the logic for the first educational game I&rsquo;m building. I can now generate random one note drills for reading exercises, I have to complete it better.</p>
+
+<ul>
+<li>Having defined the new application &ndash;> <strong>DONE</strong></li>
+<li>Having a simple AngularJS web page that can do one basic feature of the new application <strong>DONE</strong></li>
+<li>Having at least support for freatboard edition on <a href="musicpaste.com">MusicPaste</a> on local server <strong>NOT DONE</strong></li>
+</ul>
+
+
+<h2>What&rsquo;s next</h2>
+
+<p>So, I&rsquo;ve written down my sumup, now the important part that follows, the <strong>ACTIONS</strong> to take for next week.</p>
+
+<h3>Education</h3>
+
+<p><strong>Success measures:</strong></p>
+
+<ul>
+<li>Write down the sumups of <a href="https://class.coursera.org/musictheory-001/lecture"><strong>Music Theory </strong></a> course.</li>
+<li>Having done the weekly exercises in the courses websites</li>
+<li>Watch one video of the <a href="http://oyc.yale.edu/music/musi-112"><strong>Listening to Music</strong></a> Yale&rsquo;s course.</li>
+<li>Having practiced 15 minutes every day (playing for fun doesn&rsquo;t count)</li>
+<li>Write down the study of the 2nd drill of Czerny Op.599</li>
+</ul>
+
+
+<h3>Services</h3>
+
+<ul>
+<li>Define and start the next application</li>
+<li>Continue the Freatboard support for <a href="http://musicpaste.com" title="MusicPaste">MusicPaste</a>.</li>
+</ul>
+
+
+<p><strong>Success measures:</strong></p>
+
+<ul>
+<li>Having a simple AngularJS game that can be played with the keyboard.</li>
+<li>Having at least support for freatboard edition on musicpaste.com on local server</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[last week sumup]]></title>
